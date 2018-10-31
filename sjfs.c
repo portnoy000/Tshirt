@@ -6,7 +6,7 @@
 #include<time.h>
 #include"display.c"
 int ptr=0,sum=0;
-
+//tejkhg
 double display[100][2];
 int pos;
 
