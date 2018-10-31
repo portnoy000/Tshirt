@@ -1,12 +1,12 @@
-#define TASKN 10
-#define AT 10
-#define ET 10
-#include<stdlib.h>
-#include<stdio.h>
+//#define TASKN 10
+//#define AT 10
+//#define ET 10
+//#include<stdlib.h>
+//#include<stdio.h>
 #include<time.h>
 #include"display.c"
 int ptr=0,sum=0;
-
+//tejkhg
 double display[100][2];
 int pos;
 
@@ -15,7 +15,7 @@ void swap(double *a,double *b){
 	*b=*a-*b;
 	*a=*a-*b;
 }
-
+//
 int check(double data[TASKN]){
 	int i,count=0;
 	for(i=0;i<TASKN;i++)
