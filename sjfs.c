@@ -1,6 +1,6 @@
 //#define TASKN 10
 //#define AT 10
-#define ET 10
+//#define ET 10
 //#include<stdlib.h>
 //#include<stdio.h>
 #include<time.h>
